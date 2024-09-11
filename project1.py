@@ -78,6 +78,7 @@ if cont=="y":
                   print("You have quitted the game .")
                   sys.exit()
           else:
+              
               print("Thats incorrect answer. You are eliminated")
               sys.exit()
 
